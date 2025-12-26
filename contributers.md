@@ -1,5 +1,6 @@
 | Name                    | GitHub ID            | College Name                   |
 |-------------------------|----------------------|--------------------------------|
+| Aaditya Maurya          | aadityamaurya31      | IIIT Allahabad                 |
 | Asra Tabassum           | Tabassumasra05       | IIIT Allahabad                 |
 | Vicky                   | ishaarebaaz          | IIIT Allahabad                 |
 | Suyash                  | Skr-suyash           | IIIT Allahabad                 |
